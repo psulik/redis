@@ -4,7 +4,6 @@
       "redis": {
         "host" : "redis.euw1.cache.amazonaws.com",
         "port" : "6379",
-        "password" : "strongPassword"
       }
     }
   }
